@@ -9,7 +9,7 @@ To generate a Pareto Chart, users have the option to use either SAS code or Ente
 Below is an example of the Pareto Task built into Enterprise Guide There are several different roles we can define for our variable selections, but we’ll start with defining the process variable as the cause variable which will simply show the highest count of cause or defect that occurred. 
  
 
-![Data Selection](paretodatga.png)
+![image](paretodatga.png)
 
  
 
