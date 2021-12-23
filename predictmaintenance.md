@@ -1,3 +1,9 @@
+---
+title: How Analytics Can Predict Machine Failure
+layout: template
+filename: predictmaintenance.md
+--- 
+
 ## How Analytics Can Predict Machine Failure
 
 Predictive maintenance is a revolutionary concept within the agriculture industry. Harnessing the power of data and analytics with the use of connected technology and sensors allows farmers to increase yield and profit as well as decrease equipment repair costs and machine downtime.  
