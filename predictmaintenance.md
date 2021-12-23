@@ -1,6 +1,7 @@
 ---
 title: How Analytics Can Predict Machine Failure
 layout: template
+theme: jekyll-theme-cayman
 filename: predictmaintenance.md
 --- 
 
