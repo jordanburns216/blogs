@@ -1,2 +1,2 @@
 # blogs
-Go to [about page](about.md)
+Go to [SAS/QC Blog](qc.md)
