@@ -32,7 +32,9 @@ With this data, this first SPC chart we’ll use is a Mean and Standard deviatio
  ![image](meanandstdselection.PNG)
 
 After making our variable selections, on the left side of the window there are several different tabs that we can go through to customize the output of this task. One that I want to focus on is how we go about specifying Control Limits. 
- 
+
+![image](controllimit.PNG)
+
 There are several different options to compute the control limits. The first method and the one that I have selected to use is to compute the control limits based on the active dataset. In this case, my control limits are calculated based on the data in the diameter dataset. This generates a new output dataset with the newly calculated values. You can also compute control limits based on another dataset or even specify them manually if the values are already known. 
  
 
