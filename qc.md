@@ -37,11 +37,11 @@ After making our variable selections, on the left side of the window there are s
 
 There are several different options to compute the control limits. The first method and the one that I have selected to use is to compute the control limits based on the active dataset. In this case, my control limits are calculated based on the data in the diameter dataset. This generates a new output dataset with the newly calculated values. You can also compute control limits based on another dataset or even specify them manually if the values are already known. 
  
-
+![image](meanandstdcntrllimit.PNG)
 After running this task, I’ll have two outputs. One being the control chart pictured above, and the other being a new dataset that stores our calculated control limits based on the active data selection. The task generated two separate control charts for us, one based on the mean of the process measurement and the other based on the standard deviation. With these charts, we can easily see when the process falls outside of its defined control limits indicated by the red markings. For example, in the top chart, we have two instances of where our process when out of spec. Since we also added block variables, we can also see above the chart the machine it occurred on (A455) and the operator was running the machine at that time each instance occurred. 
 I can also apply the newly calculated control limits to another dataset. Again, I will be using the Mean and Standard Deviation Chart task, but this time using a new dataset, Diam2, and rather computing the control limits based on the active dataset I will compute using the second option of computing the control limits based on the selected dataset which contains the values of the calculated control limits from our first task. 
 
-
+![image](control_meanandstd.PNG)
  
 Applying the previously defined control limits to a new set of data shows that the process is now running within control.  
 This post provides a high level overview of some of the functionality built in with SAS/QC, however there are many additional capabilities that are not explored here. SAS/QC delivers a wide range of tools including and beyond what was in this post that help identify and understand variation within processes and support quality improvement efforts across your entire organization. 
