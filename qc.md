@@ -21,7 +21,7 @@ This dataset again uses data that was collected from a plant that is running two
 By adding in the classification variable, this breaks down the highest causes of failure now shown by each individual process group. We can see that in Process A, Contamination is still the highest cause of failure but in Process B, Oxide Defect is now the highest cause for failure.  
 Lastly, for the final pareto I’ll add in the relative weight which shows the impact if a defect were to occur to the process. 
  
-
+![image](weightedpareto.PNG)
 
 Adding the ‘weight’ variable to the relative weight role in the Pareto task, we can see now Solder Defect has the most impact to the process if it was to occur. 
 
