@@ -16,6 +16,7 @@ Below is an example of the Pareto Task built into Enterprise Guide There are sev
 We can see in the above pareto that the Contamination is the highest cause of failure by count making up of slightly over 40% of the defects that occurred followed by Oxide Defect. 
 This dataset again uses data that was collected from a plant that is running two different processes, Process A and Process B. I can use this to break up the pareto chart even further to see how the results change broken down by Process A and Process B. My data selections remain the same as the first pareto, however this time I am adding one additional parameter, process, from the cleaning dataset into the classification variable role. 
  
+![image](pareto2.PNG)
 
 By adding in the classification variable, this breaks down the highest causes of failure now shown by each individual process group. We can see that in Process A, Contamination is still the highest cause of failure but in Process B, Oxide Defect is now the highest cause for failure.  
 Lastly, for the final pareto I’ll add in the relative weight which shows the impact if a defect were to occur to the process. 
