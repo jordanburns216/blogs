@@ -29,7 +29,7 @@ Statistical process control (SPC) is defined as “the use of statistical techni
 With this data, this first SPC chart we’ll use is a Mean and Standard deviation chart. Like the Pareto task, the Mean and Standard Deviation task also allows users to utilize the point and click variable selection process. The data selection itself looks very similar from task to task, but the roles and what we are measuring vary. Starting with the process measurement, this is the variable that we will select to analyze over time which in this case is the diameter variable. Another interesting thing we can do with this chart is select up to two variables that group data into blocks of consecutive subgroups, which in this case will be blocked by both the machine and the operator.  
 
 
- 
+ ![image](meanandstdselection.PNG)
 
 After making our variable selections, on the left side of the window there are several different tabs that we can go through to customize the output of this task. One that I want to focus on is how we go about specifying Control Limits. 
  
