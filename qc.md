@@ -45,7 +45,7 @@ I can also apply the newly calculated control limits to another dataset. Again, 
  
 Applying the previously defined control limits to a new set of data shows that the process is now running within control.  
 This post provides a high level overview of some of the functionality built in with SAS/QC, however there are many additional capabilities that are not explored here. SAS/QC delivers a wide range of tools including and beyond what was in this post that help identify and understand variation within processes and support quality improvement efforts across your entire organization. 
-To learn more about SAS/QC, check out this fact sheet.
+To learn more about SAS/QC, check out this [fact sheet](https://www.sas.com/content/dam/SAS/en_us/doc/factsheet/sas-qc-101419.pdf).
 
 
 
